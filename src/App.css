@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body{
+    background-color: #FAFAFA !important;
+    font-family: 'Nunito', sans-serif;
+}
+
+.display-5 {
+    font-size: 2.5rem;
+    font-weight: 200;
+    line-height: 1.2;
+}
+
+.display-6 {
+    font-size: 1.5rem;
+    font-weight: 200;
+    line-height: 1.2;
+}
+
+.card{
+    font-size: 14px;
+    width: 65%;
+}
+
+
+.navbar-brand{
+    font-family: "Pristina";
+    font-weight: bold;
+}
+
+/*@media (min-width: 576px) {*/
+/*    .container-lg {*/
+/*        max-width: 540px;*/
+/*    }*/
+/*    .w-75{*/
+/*        width: 100% !important;*/
+/*    }*/
+/*}*/
+/*@media (min-width: 768px) {*/
+/*    .container-lg{*/
+/*        max-width: 720px;*/
+/*    }*/
+/*    .w-75{*/
+/*        width: 100% !important;*/
+/*    }*/
+/*}*/
+/*@media (min-width: 1200px) {*/
+/*    .container-lg {*/
+/*        max-width: 1140px;*/
+/*    }*/
+/*    .w-75{*/
+/*        width: 75% !important;*/
+/*    }*/
+/*}*/
+/*@media (min-width: 1400px) {*/
+/*    .container-lg {*/
+/*        max-width: 1320px;*/
+/*    }*/
+/*    .w-75{*/
+/*        width: 75% !important;*/
+/*    }*/
+/*}*/
